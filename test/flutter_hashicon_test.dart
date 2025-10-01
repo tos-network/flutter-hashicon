@@ -12,7 +12,7 @@ class HashiconWidget extends StatelessWidget {
         body: CustomPaint(
           painter: HashiconPainter(
               hash:
-                  "xel:ee48xuktxn0kxh3r6p0hw9x68adcm0dqf4c04hptu0qhegcnldusqr62y47"),
+                  "tos1qsl6sj2u0gp37tr6drrq964rd4d8gnaxnezgytmt0cfltnp2wsgqqak28je"),
           size: const Size(50, 50),
         ),
       ),
